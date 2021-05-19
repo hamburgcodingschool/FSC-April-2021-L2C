@@ -39,3 +39,4 @@ console.log("I live in the city called " + city);
 // c. Create a variable to store the distance in kilometers 
 // to your #1 favourite city and assign a numerical value to it.
 // d. Print "For my next holiday I plan to go to <favCity>, which is <distance> km away."
+

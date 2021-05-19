@@ -9,14 +9,10 @@ aEqualsB = a == b;
 
 console.log("a equals b: " + aEqualsB);
 
-
-
-
 if (a==b){
     console.log("YES they are equal");
     console.log("This gets printed");
 } 
-
 else {
     console.log("NO they are NOT equal");
 }
@@ -44,4 +40,3 @@ if (age > limitAge){
 } else{
     console.log("You are NOT allowed");
 }
-

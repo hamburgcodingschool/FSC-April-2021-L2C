@@ -49,7 +49,6 @@ console.log(accomodationCost);
 totalBudget = 300;
 campingPerNight = 7;
 hostelPerNight = 25;
-hotelPerNight = 70;
 
 // E6.
 // Start with a predefined budget variable
@@ -57,4 +56,10 @@ hotelPerNight = 70;
 // b. Calculate what is the maximum number of nights you can stay in your trip
 // c. Print out the results
 
-"We can stay for maximum <6> nights if we go camping"
+maxNightsCamping = Math.round(totalBudget / campingPerNight);
+maxNightsHostel = Math.round(totalBudget / hostelPerNight);
+maxNightsHotel = Math.round(totalBudget / hotelPerNight);
+
+console.log("We can stay for maximum " + maxNightsCamping + " nights if we go camping");
+console.log("We can stay for maximum " + maxNightsHostel + " nights if we go to a hostel");
+console.log("We can stay for maximum " + maxNightsHotel + " nights if we go to a hotel");

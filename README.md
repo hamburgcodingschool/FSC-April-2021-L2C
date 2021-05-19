@@ -3,7 +3,7 @@
 
 ### ✏️ Homework
 
-- Homework will be posted here
+- [Homework 1](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_1.md)
 
 To upload your homework:
 

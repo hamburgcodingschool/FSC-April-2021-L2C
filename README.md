@@ -4,6 +4,7 @@
 ### ✏️ Homework
 
 - [Homework 1](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_1.md)
+- [Homework 2](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_2.md)
 
 To upload your homework:
 

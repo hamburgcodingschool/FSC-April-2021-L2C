@@ -7,6 +7,8 @@
 - [Homework 2](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_2.md)
 - [Homework 3](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_3.md)
 - [Homework 4](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_4.md)
+- [NO Homework 5 :)]
+- [Homework 6](https://github.com/hamburgcodingschool/FSC-April-2021-L2C/blob/main/homework/homework_6.md)
 
 To upload your homework:
 

@@ -2,7 +2,7 @@ gasPricePerLiter = 1.5;
 consumption = 8; // 8 liters for 100 km
 
 kmDistance = 360;
-tripCostCar = consumption * (kmDistance/100) * 1.5;
+tripCostCar = consumption * (kmDistance / 100) * 1.5;
 console.log("\nThe total price when going by car is " + tripCostCar + " €.\n");
 
 priceTrainTicket = 68;

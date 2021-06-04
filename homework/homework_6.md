@@ -1,4 +1,4 @@
-###### Refactor the existing code
+## Part 1 - Refactor the existing code
 
 We now know enough to make the communication with the bot much nicer. Using while loops and functions, we can refactor the code we have so far.
 
@@ -23,7 +23,7 @@ Refactor the following functionalities into separate functions:
 
 
 
-##### Sally - Stage 4
+## Part 2 - Sally - Stage 4
 
 ##### 4.1 Sentence Analysis
 

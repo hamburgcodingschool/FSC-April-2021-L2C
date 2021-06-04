@@ -1,3 +1,4 @@
+## Part 1
 Stage 3
 ###### 3.1 Sally wants to help you keep track of your social media consumption
 
@@ -43,7 +44,7 @@ The total time spent in the last 5 days is: 150 minutes.
 2.1 Count the even numbers in the array;
 2.2 Count the odd numbers in an array;
 
-##### Bonus
+## Part 2 - Bonus
 3. Start with a hardcoded array. 
 3.1 Check if there is a number that appears at least 2 times in the array; 
 3.2 Check if there are more numbers that appear at least 2 times in the array;

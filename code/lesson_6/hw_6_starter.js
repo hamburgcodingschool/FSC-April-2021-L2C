@@ -12,13 +12,15 @@ while (selectedOption !== -1)
     ],
     selectedOption = readlineSync.keyInSelect(options, 'What do you want me to do?');
 
-    console.log(selectedOption)
+    console.log("Selected: " + selectedOption)
     if (selectedOption === 0){
         sayHello();
     } else if (selectedOption === 1){
         singASong();
     } else if (selectedOption === 2){
         // arrayStats();
+    } else if (selectedOption === 3){
+        
     }
 }
 

@@ -36,7 +36,9 @@ The bot should:
 - [ ] print the longest word in your sentence
 - [ ] print the average length of the words in your sentence
 - [ ] mess up your sentence: replace every 'a' with 'z' and print it back to you
-- [ ] find cursing words in your sentence and replace them with "****" - for this you need to define a hardcoded list of curse words
+- [ ] find cursing words in your sentence and replace them with "****" 
+
+- for this you need to define a hardcoded list of curse words
 
 
 **Hint 1:** Don't forget strings also have the *.length* property

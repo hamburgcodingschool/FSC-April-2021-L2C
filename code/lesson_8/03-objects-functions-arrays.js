@@ -30,6 +30,8 @@ function increaseBookPriceBy10(book){
 books.forEach(increaseBookPriceBy10);
 console.log(books);
 
+// THIS DOES NOT WORK;
+// WE CANNOT PASS PARAMETERS TO THE CALLBACK FUNCTION THAT WE PASS IN FOREACH()
 
 // function increaseBookPrice(book, percentage){
 //     book.price += percentage/100 * book.price;
